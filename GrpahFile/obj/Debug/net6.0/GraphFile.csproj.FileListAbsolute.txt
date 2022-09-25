@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\GraphFile.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\GraphFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\GraphFile.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\GraphFile.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\GraphFile.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\bin\Debug\net6.0\GraphFile.exe
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\bin\Debug\net6.0\GraphFile.deps.json
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\bin\Debug\net6.0\GraphFile.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\bin\Debug\net6.0\GraphFile.dll
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\bin\Debug\net6.0\GraphFile.pdb
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\GraphFile.dll
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\refint\GraphFile.dll
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\GraphFile.pdb
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\GraphFile.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\GrpahFile\obj\Debug\net6.0\ref\GraphFile.dll

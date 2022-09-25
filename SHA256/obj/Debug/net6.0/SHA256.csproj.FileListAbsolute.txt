@@ -1,0 +1,5 @@
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256.csproj.CoreCompileInputs.cache

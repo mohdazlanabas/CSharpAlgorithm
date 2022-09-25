@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256File.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256File.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256File.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256File.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256File.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\bin\Debug\net6.0\SHA256File.exe
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\bin\Debug\net6.0\SHA256File.deps.json
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\bin\Debug\net6.0\SHA256File.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\bin\Debug\net6.0\SHA256File.dll
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\bin\Debug\net6.0\SHA256File.pdb
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256File.dll
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\refint\SHA256File.dll
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256File.pdb
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\SHA256File.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\SHA256\obj\Debug\net6.0\ref\SHA256File.dll

@@ -1,0 +1,94 @@
+﻿TREE & GRAPHS
+
+TREE:
+- Has Root Node
+- Lighter than Graphs
+
+Application:
+- XML Parser
+- Machine LEarning Decision Alogrithm
+- Database Indexing
+- Doman NAme Serves (DNS)
+- Computer Graphics
+
+Tree Types:
+- General
+- Binary - Equally divided 
+- Binary Search Tree- Equally Divided where left node is smaller than right node
+- AVL- Self Balancing Node > 3 Node =1. 2 Node = 0, 1 Node = -1
+- Red Black 
+
+Tree operation
+- Insert
+- Delete
+- Search
+
+Tree Terminology
+- Node is a general roo or key 
+- Root
+- Edge
+- Key
+- Level
+- Parent
+- Children
+
+Tree Traversal
+- Breadth First
+- Depth First - Preorder, In Order, Post Order
+Preorder- Root, Left Sub Tree, Right Subtre
+In Order- Left Subtree, Root, Right Sub Tree > Bottom to Top
+Post Order- Left Subtree, Right Subtree, Root
+
+Summary Sort:
+General Tree
+BInary Tree
+Binary Search Tree
+AVL
+
+Summary Search:
+- Breadth First
+- Depth First > Preorder, In Order, Post Order
+
+GRAPHS
+- No Root
+- Nodes
+- Edges
+
+Application:
+- Facebok API
+- Google Knowledge Graph
+- Path Optimization
+- Google Map
+- Flight Network Path
+
+Graphs Types:
+- Directed- Edges has direction and can only have one way
+- Undirected- Edges do not have direction and can be two way
+- Weighted- Undirected + Wieghted
+- Unweigthed- Directed but no weight
+- Cyclic- Directed with One node back to itself
+- Acyclic- Directed no node can travel to itself
+
+Graph Operation:
+- Add Node
+- Remove Node
+- Add Edge
+- Remove Edge
+- Search
+- Any edges between Nodes
+
+Graph Ternminology:
+- Vertex- Data Element or Node (Key in tree)
+- Edge- Link between nodes (not define in tree)
+- Degree- Number of edges in a node
+- Indegree- Number of incoming Edges
+- Outdegree- Number of outgoing Edges
+- Self Loop- Whre there are a loop back with the edges
+- Adjacency- Two oposite Edges in a Node
+
+Graphs Traversal (different than tree is any Node can be a root)
+- Breadth First Search
+- Depth First Search
+
+Summary Search:
+- BFS first Than DFS

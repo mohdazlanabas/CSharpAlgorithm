@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\TreeFile.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\TreeFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\TreeFile.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\TreeFile.AssemblyInfo.cs
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\TreeFile.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\bin\Debug\net6.0\TreeFile.exe
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\bin\Debug\net6.0\TreeFile.deps.json
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\bin\Debug\net6.0\TreeFile.runtimeconfig.json
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\bin\Debug\net6.0\TreeFile.dll
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\bin\Debug\net6.0\TreeFile.pdb
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\TreeFile.dll
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\refint\TreeFile.dll
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\TreeFile.pdb
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\TreeFile.genruntimeconfig.cache
+E:\Desktop\Software_Lang\CSharpAlgorithm\TreeFile\obj\Debug\net6.0\ref\TreeFile.dll
